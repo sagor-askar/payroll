@@ -1,10 +1,7 @@
-
+Humen Resource Management System
 
 ## About this project
 
-
-
-### Instruction to run this project
 
 - **Run cp .env.example .env file to copy example file to .env**
 - **Run composer install command.**
